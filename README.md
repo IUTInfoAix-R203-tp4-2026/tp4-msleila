@@ -1,4 +1,3 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23941939)
 # <img src=".github/assets/logo.png" alt="class logo" class="logo" width="120"/> R2.03 - Qualité de développement
 
 ### IUT d'Aix-Marseille - Département Informatique Aix-en-Provence
@@ -69,7 +68,7 @@ La mise en place se fait en deux étapes : accepter le devoir sur GitHub Classro
 
 1. Cliquez sur le lien suivant :
 
-   👉 **https://classroom.github.com/a/ApDTiHdo**
+   👉 **https://classroom.github.com/a/oXWVrGmZ**
 
 2. Si c'est votre première utilisation de GitHub Classroom, autorisez l'accès à votre compte GitHub.
 3. Sélectionnez votre nom dans la liste des étudiants (si elle apparaît) pour associer votre compte GitHub à votre identité dans le cours.
